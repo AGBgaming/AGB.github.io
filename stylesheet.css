@@ -33,8 +33,25 @@ h3 {
 }
 a {
 	text-decoration: none;
+	color: black;
+}
+.staff {
+	font-family: Arial;
+	font-size:1.5em;
 }
 img {
 	height:250px;
 	width:250px;
+}
+h2 {
+	font-size:2em;
+	font-family: Arial;
+}
+.line {
+	height:225px;
+	width:5px;
+	background: black;
+}
+a:hover {
+	color: blue
 }
