@@ -1,0 +1,32 @@
+p {
+	font-family: Arial;
+}
+body {
+	background: red;
+}
+h1 {
+	font-family: Arial;
+	font-size:3em;
+}
+.steam {
+	height: 150px;
+	width: 300px;
+	background: black;
+	border: 5px solid white;
+	margin: auto;
+	border-radius: 10px;
+}
+h3 {
+	color: white;
+	font-family: Arial;
+	text-align: center;
+	font-size:2.2em;
+}
+.wot {
+	height: 150px;
+	width: 300px;
+	background: #194719;
+	border: 5px solid silver;
+	margin: auto;
+	border-radius: 10px;
+}
