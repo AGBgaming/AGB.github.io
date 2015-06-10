@@ -2,7 +2,7 @@ p {
 	font-family: Arial;
 }
 body {
-	background: red;
+	background: #19B5FE;
 }
 h1 {
 	font-family: Arial;
@@ -33,7 +33,7 @@ h3 {
 }
 a {
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 .staff {
 	font-family: Arial;
@@ -53,5 +53,12 @@ h2 {
 	background: black;
 }
 a:hover {
-	color: blue
+	color: #333333;
+}
+.logo {
+	height: 60px;
+	width: 900px;
+	background: #3498db;
+	margin: auto;
+	border-radius: 10px
 }
