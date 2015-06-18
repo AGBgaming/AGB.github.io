@@ -1,64 +1,25 @@
-p {
-	font-family: Arial;
-}
-body {
-	background: #19B5FE;
-}
 h1 {
 	font-family: Arial;
-	font-size:3em;
-	color: black;
+	font-size:100px;
 }
-.steam {
-	height: 150px;
-	width: 300px;
-	background: black;
-	border: 5px solid white;
-	margin: auto;
-	border-radius: 10px;
+body {
+	background-color: #F22613;
 }
-h3 {
-	color: white;
-	font-family: Arial;
+.buttons {
+	height: 60px;
+	width: 250px;
+	background: #F22613;
+	border: 5px solid black;
+	margin-top: -4px;
+	border-radius: 8px
+}
+h2 {	
 	text-align: center;
-	font-size:2.2em;
-}
-.wot {
-	height: 150px;
-	width: 300px;
-	background: #194719;
-	border: 5px solid silver;
-	margin: auto;
-	border-radius: 10px;
-}
+	font-family: Arial;
+	font-size:40px;
+	line-height:0px;
+	}
 a {
 	text-decoration: none;
-	color: white;
-}
-.staff {
-	font-family: Arial;
-	font-size:1.5em;
-}
-img {
-	height:250px;
-	width:250px;
-}
-h2 {
-	font-size:2em;
-	font-family: Arial;
-}
-.line {
-	height:225px;
-	width:5px;
-	background: black;
-}
-a:hover {
-	color: #333333;
-}
-.logo {
-	height: 60px;
-	width: 900px;
-	background: #3498db;
-	margin: auto;
-	border-radius: 10px
+	color: black;
 }
