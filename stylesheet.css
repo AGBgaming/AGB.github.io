@@ -1,5 +1,7 @@
-h1 {
+* {
 	font-family: Arial;
+}
+h1 {
 	font-size:100px;
 }
 body {
@@ -7,7 +9,7 @@ body {
 }
 .buttons {
 	height: 60px;
-	width: 250px;
+	width: 200px;
 	background: #F22613;
 	border: 5px solid black;
 	margin-top: -4px;
@@ -15,11 +17,19 @@ body {
 }
 h2 {	
 	text-align: center;
-	font-family: Arial;
 	font-size:40px;
 	line-height:0px;
 	}
 a {
 	text-decoration: none;
 	color: black;
+}
+a:hover {
+	color: white;
+}
+.buttons:hover {
+	border: 5px solid white;
+}
+h3 {
+	font-size:30px;
 }
