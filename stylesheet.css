@@ -5,12 +5,12 @@ h1 {
 	font-size:100px;
 }
 body {
-	background-color: #F22613;
+	background-color: #CF000F;
 }
 .buttons {
 	height: 60px;
 	width: 200px;
-	background: #F22613;
+	background: #CF000F;
 	border: 5px solid black;
 	margin-top: -4px;
 	border-radius: 8px
